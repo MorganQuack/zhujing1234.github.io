@@ -2281,7 +2281,7 @@ hr {
 }
 
 .bar-fill-socialmedia {
-    width: 95%;
+    width: 65%;
     background-color: #101010;
     animation: bar-fill-socialmedia 2s ease-out;
     -moz-animation: bar-fill-socialmedia 2s ease-out;
