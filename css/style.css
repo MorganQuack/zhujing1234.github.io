@@ -2293,7 +2293,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 95%;
+        width: 65%;
     }
 }
 
@@ -2302,7 +2302,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 95%;
+        width: 65%;
     }
 }
 
@@ -2311,40 +2311,40 @@ hr {
         width: 0px;
     }
     100% {
-        width: 95%;
+        width: 65%;
     }
 }
-.bar-fill-c4d {
-    width: 50%;
+
+.bar-fill-canvas {
+    width: 80%;
     background-color: #101010;
-    animation: bar-fill-socialmedia 2s ease-out;
-    -moz-animation: bar-fill-socialmedia 2s ease-out;
-    -webkit-animation: bar-fill-socialmedia 2s ease-out;
+    animation: bar-fill-canvas 2s ease-out;
+    -moz-animation: bar-fill-canvas 2s ease-out;
+    -webkit-animation: bar-fill-canvas 2s ease-out;
 }
 
-@keyframes bar-fill-socialmedia {
+@keyframes bar-fill-canvas {
     0% {
         width: 0px;
     }
     100% {
-        width: 50%;
+        width: 80%;
     }
 }
 
-@-moz-keyframes bar-fill-socialmedia {
+@-moz-keyframes bar-fill-canvas {
     0% {
         width: 0px;
     }
     100% {
-        width: 50%;
+        width: 80%;
     }
 }
 
-@-webkit-keyframes bar-fill-socialmedia {
+@-webkit-keyframes bar-fill-canvas {
     0% {
         width: 0px;
     }
     100% {
-        width: 50%;
-    }
-}
+        width: 80%;
+   
